@@ -1,1 +1,1 @@
-worker: python-3.10.8
+worker: python bot.py
